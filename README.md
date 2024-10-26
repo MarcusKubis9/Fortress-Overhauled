@@ -1,2 +1,7 @@
-# NAS-Overhaul-Pack
-Overhaul of the sourcemod Fortress Connected, This pack aims to rebuild items_game.txt from the ground up, remove unnecessary classes, remove overly silly or unbalanced weapons, and add new weapons.
+# NAS Overhaul Pack
+## Not As Silly Overhaul Pack
+
+This is an overhaul for the sourcemod known as "Fortress Connected" that re-writes the items_game.txt from nearly scratch, removes unnecessary classes, hats, and weapons, and moves the game away from the generally more silly base version.
+
+Current development stage: Early Alpha
+
