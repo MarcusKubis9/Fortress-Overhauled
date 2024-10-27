@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "backpack/weapons/w_models/w_ledpda_large.vtf"
+	"$translucent" 1
+	$vertexcolor 1		
+	"$ignorez" 1
+}
+

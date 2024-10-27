@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"backpack/weapons/saxton/sweeping_charge"
+	"$translucent" 1
+	"$vertexcolor" 1
+}

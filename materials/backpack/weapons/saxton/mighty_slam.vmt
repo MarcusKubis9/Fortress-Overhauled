@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"backpack/weapons/saxton/mighty_slam"
+	"$translucent" 1
+	"$vertexcolor" 1
+}
