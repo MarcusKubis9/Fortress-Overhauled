@@ -15,7 +15,7 @@ Why did you make this?
 FC has some amazing features and improvements that aren't in base LFE, but in my opinion, it's held back by the sheer amount of essentially useless classes and bloated weapon selection.
 Fortress Connected's weapons and classes feel more like a weapon pack than a source mod, at least in my opinion. and I figured some people might want an experience closer to the original LFE, so that's when I began development on this.
 
-No disrespect to the FC team, this mod is still a great accomplishment. I simply want to open the doors to potentially a wider player base who don't want the extra weapons/classes FC offers.
+No disrespect to the FC team, this mod is still a great accomplishment. I simply want to open the doors to potentially a wider player base who don't want all the extra weapons/classes FC offers.
 
 #
 
