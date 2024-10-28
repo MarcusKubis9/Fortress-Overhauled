@@ -23,4 +23,9 @@ Why can't I use X hat?
 
 Every hat has been disabled due to incompatibility with the GRN/YLW team
 
+#
+
+If you want to have the game be less bloated why add festive versions of weapons?
+
+With reskins now having attributes and cosmetics being removed I thought I should still keep some form of customization.
 
