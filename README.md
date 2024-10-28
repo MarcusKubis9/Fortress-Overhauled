@@ -16,7 +16,7 @@ Fortress Connected's weapons and classes feel more like a weapon pack than a sou
 
 No disrespect to the FC team, this mod is still a great accomplishment. I simply want to open the doors to potentially a wider player base who don't want the extra weapons/classes FC offers.
 
-###
+#
 
 Why can't I use X hat?
 
