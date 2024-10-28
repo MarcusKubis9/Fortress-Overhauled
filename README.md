@@ -2,7 +2,11 @@
 
 Fortress: Overhauled is an overhaul pack for the mod known as "Fortress Connected"
 
-This mod aims to overhaul Fortress Connected to remove unnecessary classes/weapons and fix certain issues
+This package aims to be a more dummed down version of FC that still keeps the improvements and fixes but removes most of the custom classes and weapons.
+
+This package is what in my eyes FC should've been from the start, an improved version of LFE.
+
+No disrespect to the Fortress Connected devs, it's your mod so you choose what to do with it. I am simply making this to hopefully open the door to a wider audience who want an experience closer to the original LFE
 
 #
 
@@ -10,22 +14,6 @@ FAQ:
 
 #
 
-Why did you make this?
-
-FC has some amazing features and improvements that aren't in base LFE, but in my opinion, it's held back by the sheer amount of essentially useless classes and bloated weapon selection.
-Fortress Connected's weapons and classes feel more like a weapon pack than a source mod, at least in my opinion. and I figured some people might want an experience closer to the original LFE, so that's when I began development on this.
-
-No disrespect to the FC team, this mod is still a great accomplishment. I simply want to open the doors to potentially a wider player base who don't want all the extra weapons/classes FC offers.
-
-#
-
-Why can't I use X hat?
+Why is X hat missing?
 
 Every hat has been disabled due to incompatibility with the GRN/YLW team
-
-#
-
-If you want to have the game be less bloated why add festive versions of weapons?
-
-With reskins now having attributes and cosmetics being removed I thought I should still keep some form of customization.
-
