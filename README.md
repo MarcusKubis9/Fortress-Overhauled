@@ -10,6 +10,7 @@ This mod aims to overhaul Fortress Connected to remove unnecessary classes/weapo
 FAQ:
 
 Why did you make this?
+
 FC has some amazing features and improvements that aren't in base LFE, but in my opinion, it's held back by the sheer amount of essentially useless classes and bloated weapon selection.
 Fortress Connected's weapons and classes feel more like a weapon pack than a source mod, at least in my opinion. and I figured some people might want an experience closer to the original LFE, so that's when I began development on this.
 
