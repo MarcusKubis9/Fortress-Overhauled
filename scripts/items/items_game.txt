@@ -17598,21 +17598,6 @@
 			}
 			"attributes"
 			{
-				"projectile penetration heavy"
-				{
-					"attribute_class"	"projectile_penetration"
-					"value"				"1" 
-				}
-				"Projectile speed increased"
-				{
-					"attribute_class"	"mult_projectile_speed"
-					"value"	"1.25"
-				}
-				"Reload time increased"
-				{
-					"attribute_class"	"mult_reload_time"
-					"value"	"11"
-				}
 			}
 			"item_name"	"#TF_FortifiedCompound"
 			"item_description"	"#TF_FortifiedCompound_Desc"
