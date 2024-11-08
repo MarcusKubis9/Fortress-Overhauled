@@ -2,13 +2,10 @@
 
 Fortress: Overhauled is an overhaul pack for the mod known as "Fortress Connected"
 
-This package aims to be a more dumbed-down version of FC that retains the improvements and fixes but removes most custom classes and weapons.
+## WARNING: THIS OVERHAUL PACKAGE MAY CHANGE WEAPON SELECTION AND LOADOUT PRESETS! PROCEED WITH CAUTION!
 
-In my eyes, this package should've been what Fortress Connected was from the start. an improved version of LFE, with fixes, a few new weapons, and new major additions, like L4D and MVM support.
-
-No disrespect to the Fortress Connected devs, it's your mod so you choose what to do with it. I am simply making this to hopefully open the door to a wider audience who want an experience closer to the original LFE
-
-#
+This package aims to be a sort of bridge in-between Lambda Fortress: Extended and Fortress Connected, which has a few new classes and weapons but fewer than FC. while keeping QOL or major additions like L4D.
+I'm also planning this package to be less goofy than FC.
 
 FAQ:
 
