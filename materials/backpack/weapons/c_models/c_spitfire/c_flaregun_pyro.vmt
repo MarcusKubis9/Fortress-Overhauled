@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"backpack/weapons/c_models/c_spitfire/c_flaregun_pyro.vtf"
+	"$translucent" 1
+	"$vertexcolor" 1
+}
