@@ -6,23 +6,21 @@
 
 #
 
-Fortress Overhauled is my rendition of Fortress Connected. the original plan for this overhaul package was originally supposed to be "Fortress Lite" but I have drifted away from that, I may return to that concept in the future but currently I am aiming for an alternate reality Fortress Connected ( Similar to TF2C ) that's more toned back and more in-line with LFE or TF2.
-
-Keep in mind this overhaul package IS NOT finished and likely never will be in a state where I am permanently happy with it, so everything is subject to change.
-
 FAQ:
+
+#
+
+
+What is Fortress Overhauled?
+
+Fortress Overhauled is an overhaul package for Fortress Connected that aims to be a middle ground between FC Minimal and Base FC, Removing most classes and weapons while keeping some.
+This package also aims to fix certain issues, add new weapons, and rebalance existing onces for both PVP and PVE.
 
 #
 
 Why is X hat missing?
 
 Most cosmetics have been disabled for better compatibility with the grn/ylw team
-
-#
-
-Is this mod intended for PvP or PvE?
-
-PvP and PvE will both be supported. I will also attempt to balance every weapon so that they are balanced in both modes.
 
 #
 
