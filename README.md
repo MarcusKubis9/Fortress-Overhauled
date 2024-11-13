@@ -24,4 +24,11 @@ Most cosmetics have been disabled for better compatibility with the grn/ylw team
 
 #
 
+"X thing is broken!" or "Y thing has balance issues!"
+
+If something is unbalanced or broken please make a issue and I will get to it as soon as I can.
+
+#
+
 If you are an FC dev and want to use any improvements, fixes, or weapon concepts. feel free to do so! all I ask is that I am credited.
+
